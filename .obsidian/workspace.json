@@ -171,6 +171,20 @@
   "active": "1b85b275728188d2",
   "lastOpenFiles": [
     "Без названия.md",
-    "База знаний django.md"
+    "База знаний django.md",
+    "django-theory/1create_templates/1.Подключение templates, static.md",
+    "django-theory/2createforms/readme.md",
+    "django-theory/1create_templates/readme.md",
+    "django-theory/2createforms/2.Создание формы.md",
+    "django-theory/3login/login/__pycache__/wsgi.cpython-312.pyc",
+    "django-theory/3login/login/__pycache__/urls.cpython-312.pyc",
+    "django-theory/3login/login/__pycache__/settings.cpython-312.pyc",
+    "django-theory/3login/login/__pycache__/__init__.cpython-312.pyc",
+    "django-theory/3login/apps/migrations/__init__.py",
+    "django-theory/3login/templates/home.html",
+    "django-theory/3login/login/wsgi.py",
+    "django-theory/3login/login/urls.py",
+    "django-theory/3login/login/settings.py",
+    "django-theory/3login/login/asgi.py"
   ]
 }
