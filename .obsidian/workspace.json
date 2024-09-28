@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "98a95ea0b54809b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Создание формы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "База знаний django.md",
+                "file": "2.Создание формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "База знаний django.md",
+                "file": "2.Создание формы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "База знаний django.md"
+                "file": "2.Создание формы.md"
               }
             }
           },
@@ -168,14 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b85b275728188d2",
+  "active": "98a95ea0b54809b4",
   "lastOpenFiles": [
-    "Без названия.md",
+    "3. Подключение static файлов.md",
+    "1.Подключение templates.md",
     "База знаний django.md",
-    "django-theory/1create_templates/1.Подключение templates, static.md",
+    "2.Создание формы.md",
     "django-theory/2createforms/readme.md",
     "django-theory/1create_templates/readme.md",
-    "django-theory/2createforms/2.Создание формы.md",
     "django-theory/3login/login/__pycache__/wsgi.cpython-312.pyc",
     "django-theory/3login/login/__pycache__/urls.cpython-312.pyc",
     "django-theory/3login/login/__pycache__/settings.cpython-312.pyc",
