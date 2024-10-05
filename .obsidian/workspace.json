@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "django-theory/4.Создание и подключение модели.md",
+                "file": "Диспетчер URL.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b6020a033e280afe",
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "django-theory/4.Создание и подключение модели.md",
+                "file": "Диспетчер URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "django-theory/4.Создание и подключение модели.md",
+                "file": "Диспетчер URL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "django-theory/4.Создание и подключение модели.md"
+                "file": "Диспетчер URL.md"
               }
             }
           },
@@ -207,9 +206,19 @@
   },
   "active": "2acc9c1d7ee0ab56",
   "lastOpenFiles": [
-    "django-theory/2.Создание формы.md",
-    "django-theory/4.Создание и подключение модели.md",
+    "img/Pasted image 20241004122846.png",
     "База знаний django.md",
+    "Docker/Без названия.canvas",
+    "Диспетчер URL.md",
+    "Без названия.md",
+    "img",
+    "img/Pasted image 20241004122357.png",
+    "Docker",
+    "django-theory/4.Создание и подключение модели.md",
+    "Git",
+    "Django",
+    "Сети",
+    "django-theory/2.Создание формы.md",
     "django-theory/1.Подключение templates.md",
     "django-theory/3. Подключение static файлов.md",
     "django-theory/2createforms/readme.md",
@@ -218,11 +227,6 @@
     "django-theory/3login/login/__pycache__/urls.cpython-312.pyc",
     "django-theory/3login/login/__pycache__/settings.cpython-312.pyc",
     "django-theory/3login/login/__pycache__/__init__.cpython-312.pyc",
-    "django-theory/3login/apps/migrations/__init__.py",
-    "django-theory/3login/templates/home.html",
-    "django-theory/3login/login/wsgi.py",
-    "django-theory/3login/login/urls.py",
-    "django-theory/3login/login/settings.py",
-    "django-theory/3login/login/asgi.py"
+    "django-theory/3login/apps/migrations/__init__.py"
   ]
 }
