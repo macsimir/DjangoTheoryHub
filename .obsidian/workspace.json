@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b71f046d40fa87f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Классы и объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "1.Классы и объекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "1.Классы и объекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "1.Классы и объекты.md"
               }
             }
           },
@@ -192,10 +204,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4f90be20bf5718e",
+  "active": "b71f046d40fa87f5",
   "lastOpenFiles": [
-    "Django/Диспетчер URL.md",
     "README.md",
+    "1.Классы и объекты.md",
+    "ООП",
+    "Python",
+    "Django/Диспетчер URL.md",
     "Заголовок.md",
     "img/Pasted image 20241004122846.png",
     "Docker/Без названия.canvas",
@@ -213,8 +228,6 @@
     "django-theory/1create_templates/readme.md",
     "django-theory/3login/login/__pycache__/wsgi.cpython-312.pyc",
     "django-theory/3login/login/__pycache__/urls.cpython-312.pyc",
-    "django-theory/3login/login/__pycache__/settings.cpython-312.pyc",
-    "django-theory/3login/login/__pycache__/__init__.cpython-312.pyc",
-    "django-theory/3login/apps/migrations/__init__.py"
+    "django-theory/3login/login/__pycache__/settings.cpython-312.pyc"
   ]
 }
