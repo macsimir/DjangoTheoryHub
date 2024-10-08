@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний django.md",
+                "file": "Заголовок.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "База знаний django.md",
+                "file": "Заголовок.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Диспетчер URL.md",
+                "file": "Заголовок.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Диспетчер URL.md",
+                "file": "Заголовок.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Диспетчер URL.md",
+                "file": "Заголовок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диспетчер URL.md"
+                "file": "Заголовок.md"
               }
             }
           },
@@ -206,10 +206,10 @@
   },
   "active": "2acc9c1d7ee0ab56",
   "lastOpenFiles": [
+    "Django/Диспетчер URL.md",
+    "Заголовок.md",
     "img/Pasted image 20241004122846.png",
-    "База знаний django.md",
     "Docker/Без названия.canvas",
-    "Диспетчер URL.md",
     "Без названия.md",
     "img",
     "img/Pasted image 20241004122357.png",
