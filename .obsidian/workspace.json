@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f43bbf9d2e258012",
+        "id": "894afc1bad48f065",
         "type": "tabs",
         "children": [
           {
-            "id": "98a95ea0b54809b4",
+            "id": "2dc3ae424ef667c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "django-theory/3. Подключение static файлов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d8986c7d612b36a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "django-theory/3. Подключение static файлов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2acc9c1d7ee0ab56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/Диспетчер URL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4f90be20bf5718e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b71f046d40fa87f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.Классы и объекты.md",
+                "file": "Django/4.Создание и подключение модели.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Классы и объекты.md",
+                "file": "Django/4.Создание и подключение модели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Классы и объекты.md",
+                "file": "Django/4.Создание и подключение модели.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Классы и объекты.md"
+                "file": "Django/4.Создание и подключение модели.md"
               }
             }
           },
@@ -204,26 +155,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b71f046d40fa87f5",
+  "active": "2dc3ae424ef667c9",
   "lastOpenFiles": [
+    "Django/3. Подключение static файлов.md",
+    "Django/2.Создание формы.md",
+    "Django/1.Подключение templates.md",
+    "Django/5.Диспетчер URL.md",
+    "img/Pasted image 20241004122846.png",
+    "img/Pasted image 20241004122357.png",
+    "Python/1.Классы и объекты.md",
     "README.md",
-    "1.Классы и объекты.md",
     "ООП",
     "Python",
-    "Django/Диспетчер URL.md",
     "Заголовок.md",
-    "img/Pasted image 20241004122846.png",
     "Docker/Без названия.canvas",
     "img",
-    "img/Pasted image 20241004122357.png",
     "Docker",
-    "django-theory/4.Создание и подключение модели.md",
+    "Django/4.Создание и подключение модели.md",
     "Git",
     "Django",
     "Сети",
-    "django-theory/2.Создание формы.md",
-    "django-theory/1.Подключение templates.md",
-    "django-theory/3. Подключение static файлов.md",
     "django-theory/2createforms/readme.md",
     "django-theory/1create_templates/readme.md",
     "django-theory/3login/login/__pycache__/wsgi.cpython-312.pyc",
