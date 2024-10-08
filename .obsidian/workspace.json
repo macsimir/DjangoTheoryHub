@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/4.Создание и подключение модели.md",
+                "file": "Python/ООП/1.Классы и объекты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1381c68417188d73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/ООП/2.Инкапсуляция.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ede69373dcd6577a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/ООП/2.Инкапсуляция.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca6259232a160f36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/ООП/3.Наследование.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/4.Создание и подключение модели.md",
+                "file": "Python/ООП/3.Наследование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/4.Создание и подключение модели.md",
+                "file": "Python/ООП/3.Наследование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/4.Создание и подключение модели.md"
+                "file": "Python/ООП/3.Наследование.md"
               }
             }
           },
@@ -155,30 +192,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2dc3ae424ef667c9",
+  "active": "d618c9eb7493055d",
   "lastOpenFiles": [
+    "Python/ООП/2.Инкапсуляция.md",
+    "Python/ООП/3.Наследование.md",
+    "Python/ООП/1.Классы и объекты.md",
+    "README.md",
+    "ООП/1. Классы и обьекты.md",
+    "img/Pasted image 20241009013327.png",
+    "img/Pasted image 20241009012849.png",
+    "img/Pasted image 20241009012510.png",
+    "Python/ООП",
+    "Django/4.Создание и подключение модели.md",
     "Django/3. Подключение static файлов.md",
     "Django/2.Создание формы.md",
     "Django/1.Подключение templates.md",
     "Django/5.Диспетчер URL.md",
     "img/Pasted image 20241004122846.png",
     "img/Pasted image 20241004122357.png",
-    "Python/1.Классы и объекты.md",
-    "README.md",
-    "ООП",
+    "Python/ООП",
     "Python",
     "Заголовок.md",
     "Docker/Без названия.canvas",
     "img",
     "Docker",
-    "Django/4.Создание и подключение модели.md",
     "Git",
     "Django",
     "Сети",
     "django-theory/2createforms/readme.md",
     "django-theory/1create_templates/readme.md",
     "django-theory/3login/login/__pycache__/wsgi.cpython-312.pyc",
-    "django-theory/3login/login/__pycache__/urls.cpython-312.pyc",
-    "django-theory/3login/login/__pycache__/settings.cpython-312.pyc"
+    "django-theory/3login/login/__pycache__/urls.cpython-312.pyc"
   ]
 }
