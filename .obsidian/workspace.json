@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Django.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Django.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Django.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Django.md"
+                "file": "README.md"
               }
             }
           },
@@ -192,15 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d618c9eb7493055d",
+  "active": "1c86b561226316fa",
   "lastOpenFiles": [
+    "Django/Django.md",
     "API",
     "2024-10-13.md",
-    "Django/Django.md",
     "Django/3. Подключение static файлов.md",
     "Django/5.Диспетчер URL.md",
     "Django/2.Создание формы.md",
-    "README.md.md",
+    "README.md",
     "Python/ООП/ООП.md",
     "Python/ООП/4. Полиморфизм.md",
     "Python/Типы данных/1. Типы данных.md",
@@ -236,7 +236,6 @@
     "Docker",
     "Git",
     "Django",
-    "Сети",
     "django-theory/2createforms/readme.md"
   ]
 }
