@@ -2,14 +2,11 @@
 
 
 Содержание :
-
 	1.Python база:
-	
 		- [[1. Типы данных]]
-	2. ООП:
-	
+	1. ООП:
 		- [[ООП]]
-		
 	3.Django:
-	
 		-[[Django]]
+	4.Computer science:
+		-[[Computer science]]
