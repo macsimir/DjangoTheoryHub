@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Типы данных/Типы данных.md",
+                "file": "Python/Типы данных/1. Типы данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c86b561226316fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ba62c7641804dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Типы данных/2. Числа(init, float).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "Django/Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "Django/Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "Django/Django.md"
               }
             }
           },
@@ -168,21 +192,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b6a062818ca3cc89",
+  "active": "d618c9eb7493055d",
   "lastOpenFiles": [
-    "Python/Типы данных/Типы данных.md",
+    "API",
+    "2024-10-13.md",
+    "Django/Django.md",
+    "Django/3. Подключение static файлов.md",
+    "Django/5.Диспетчер URL.md",
+    "Django/2.Создание формы.md",
     "README.md.md",
-    "Python/Типы данных/Числа(Numbers).md",
-    "img/Pasted image 20241013015101.png",
-    "Python/Типы данных/Boolean (логический тип данных).md",
-    "Python/ООП/1.Классы и объекты.md",
-    "Python/Типы данных/Tuples (кортежи).md",
-    "Python/Типы данных/Lists (списки).md",
-    "Python/Типы данных/Strings (строки).md",
-    "Python/Типы данных/Dictionaries (словари).md",
-    "Python/Типы данных/Sets (множества).md",
-    "Python/ООП/3.Наследование.md",
+    "Python/ООП/ООП.md",
     "Python/ООП/4. Полиморфизм.md",
+    "Python/Типы данных/1. Типы данных.md",
+    "Python/Асинхронность",
+    "Python/Типы данных/8. Булевые значения (bool).md",
+    "Python/Типы данных/3. Cтроки (str).md",
+    "Python/Типы данных/2. Числа(init, float).md",
+    "Python/Типы данных/4. Списки(list).md",
+    "Python/Типы данных/5. Словари(dict).md",
+    "Python/Типы данных/6. Кортежи(tup).md",
+    "Python/Типы данных/7. Множества(set).md",
+    "Python/ООП/1.Классы и объекты.md",
+    "img/Pasted image 20241013015101.png",
+    "Python/ООП/3.Наследование.md",
     "Без названия.canvas",
     "Python/Типы данных",
     "Python/ООП/2.Инкапсуляция.md",
@@ -193,10 +225,7 @@
     "img/Pasted image 20241009012510.png",
     "Python/ООП",
     "Django/4.Создание и подключение модели.md",
-    "Django/3. Подключение static файлов.md",
-    "Django/2.Создание формы.md",
     "Django/1.Подключение templates.md",
-    "Django/5.Диспетчер URL.md",
     "img/Pasted image 20241004122846.png",
     "img/Pasted image 20241004122357.png",
     "Python/ООП",
@@ -208,8 +237,6 @@
     "Git",
     "Django",
     "Сети",
-    "django-theory/2createforms/readme.md",
-    "django-theory/1create_templates/readme.md",
-    "django-theory/3login/login/__pycache__/wsgi.cpython-312.pyc"
+    "django-theory/2createforms/readme.md"
   ]
 }
