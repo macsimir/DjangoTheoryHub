@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "230418ef94324d7f",
+        "id": "f4f444e28a6065de",
         "type": "tabs",
         "children": [
           {
-            "id": "57fc51f0558dd857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Типы данных/1. Типы данных.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6a062818ca3cc89",
+            "id": "05485146469e4392",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,123 +16,12 @@
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "1c86b561226316fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ba62c7641804dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Типы данных/2. Числа(init, float).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5b6ef04ec201f645",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19e678a1b7711862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/1.Передача информации/2.Каналы и линии связи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ba9bcedcf046968",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/1.Передача информации/3.Типы линий связи.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b34aa73c58c58ea8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "99ef82c65bbe4f9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7327ae1c005fcd5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer science/2.Компьютерные сети/Компьютерные сети.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7f50b14da26f3d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3790a2dd2417a6bd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -179,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -187,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -210,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для README"
             }
           },
           {
@@ -226,9 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из README"
             }
           },
           {
@@ -239,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -247,7 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура README"
             }
           },
           {
@@ -255,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -276,8 +173,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3790a2dd2417a6bd",
+  "active": "05485146469e4392",
   "lastOpenFiles": [
+    "Django/Django.md",
+    "].md",
+    "README.md",
+    "Python/ООП/ООП.md",
+    "Python/Типы данных/8. Булевые значения (bool).md",
+    "Computer science/2.Компьютерные сети/Компьютерные сети.md",
+    "Python/Типы данных/1. Типы данных.md",
+    "Python/Типы данных/2. Числа(init, float).md",
+    "Python/Типы данных/3. Cтроки (str).md",
     "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
     "Computer science/1.Передача информации/Передача информации.md",
     "Computer science/1.Передача информации/4.Аппаратура каналов связи.md",
@@ -285,12 +191,9 @@
     "Computer science/1.Передача информации/2.Каналы и линии связи.md",
     "Computer science/Computer science.md",
     "Computer science/3.Стек протоколов TCP IP/Стек протоколов TCP IP.md",
-    "Computer science/2.Компьютерные сети/Компьютерные сети.md",
     "1.Передача информации.md",
-    "README.md",
     "Computer science/3.Стек протоколов TCP IP",
     "Computer science/2.Компьютерные сети",
-    "Python/Типы данных/2. Числа(init, float).md",
     "Без названия 1",
     "1.Модель",
     "Computer science/1.Передача информации",
@@ -298,17 +201,12 @@
     "Python/ООП/2.Инкапсуляция.md",
     "Python/ООП/3.Наследование.md",
     "Python/ООП/4. Полиморфизм.md",
-    "Django/Django.md",
     "API",
     "2024-10-13.md",
     "Django/3. Подключение static файлов.md",
     "Django/5.Диспетчер URL.md",
     "Django/2.Создание формы.md",
-    "Python/ООП/ООП.md",
-    "Python/Типы данных/1. Типы данных.md",
     "Python/Асинхронность",
-    "Python/Типы данных/8. Булевые значения (bool).md",
-    "Python/Типы данных/3. Cтроки (str).md",
     "Python/Типы данных/4. Списки(list).md",
     "Python/Типы данных/5. Словари(dict).md",
     "img/Pasted image 20241013015101.png",
