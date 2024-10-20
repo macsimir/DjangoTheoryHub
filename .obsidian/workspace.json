@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/1.Типы данных/3. Cтроки (str).md",
+                "file": "python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Cтроки (str)"
+              "title": "python"
             }
           },
           {
@@ -189,11 +189,11 @@
   },
   "active": "8d7e4d92d38ce2e5",
   "lastOpenFiles": [
-    "Python/1.Типы данных/2. Числа(init, float).md",
+    "python.md",
     "Python/1.Типы данных/3. Cтроки (str).md",
+    "Python/1.Типы данных/2. Числа(init, float).md",
     "Python/1.Типы данных/1. Типы данных.md",
     "Без названия.md",
-    "python.md",
     "Python/ООП/4. Полиморфизм.md",
     "Python/ООП/1.Классы и объекты.md",
     "Python/1.Типы данных/8. Булевые значения (bool).md",
