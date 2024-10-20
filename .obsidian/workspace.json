@@ -64,6 +64,34 @@
             }
           },
           {
+            "id": "bcb37cb6b8a08f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Функциональное программирование/1. Чистые функции.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Чистые функции"
+            }
+          },
+          {
+            "id": "11d06f23a327921e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Функциональное программирование/2. Функции высшего порядка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Функции высшего порядка"
+            }
+          },
+          {
             "id": "98f2b81473248c2a",
             "type": "leaf",
             "state": {
@@ -78,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,9 +258,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04775df4484d31c6",
+  "active": "11d06f23a327921e",
   "lastOpenFiles": [
     "Python/Функциональное программирование/1. Чистые функции.md",
+    "conflict-files-obsidian-git.md",
     "Python/Функциональное программирование/2. Функции высшего порядка.md",
     "Python/ООП/2.Инкапсуляция.md",
     "Python/ООП/1.Классы и объекты.md",
@@ -258,7 +287,6 @@
     "Computer science/1.Передача информации/4.Аппаратура каналов связи.md",
     "Computer science/1.Передача информации/3.Типы линий связи.md",
     "Computer science/1.Передача информации/2.Каналы и линии связи.md",
-    "Computer science/Computer science.md",
     "Computer science/3.Стек протоколов TCP IP",
     "Computer science/2.Компьютерные сети",
     "Без названия 1",
