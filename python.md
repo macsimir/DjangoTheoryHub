@@ -1,55 +1,26 @@
 **Основы Python:**
 
 - Типы данных и структуры (целые числа, дробные числа, строки, списки, кортежи, словари, множества)
-    
 - Переменные и выражения
-    
 - Условные операторы (if / else)
-    
 - Циклы (for / while)
-    
 - Функции
-    
 - Ввод / вывод (print, input)
-    
-    [Мощный и хороший курс по базе Python](https://stepik.org/course/67/promo)
-    
-    [Туториал по Питону от создателей](https://docs.python.org/3/tutorial/index.html#the-python-tutorial)
-    
-    [База от Тимофея Хирьянова](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
-    
-    В целом пройдя первый курс и просмотрев лекции от Тимофея вы сможете покрыть значительную часть перечисленных далее пунктов.
-    
+
 
 **Объектно-ориентированное программирование:**
-
 - Классы и объекты
-    
 - Наследование
-    
 - Полиморфизм
-    
 - Инкапсуляция
-    
 - Абстракция
-    
 - Переменные класса и объекта
-    
-    [Введение в ООП](https://proglib.io/p/python-oop)
-    
-    [Курс на Youtube про ООП](https://youtube.com/playlist?list=PLNi5HdK6QEmX9fxp3_IBFx1O5tiTmKlYm)
-    
 
 **Функциональное программирование:**
-
 - Чистые функции
-    
 - Функции высшего порядка
-    
 - Рекурсия
-    
 - Лямбда-выражения
-    
 - Map, filter, reduce, zip
     
     [Про функциональное программирования на канале Тимофея Хирьянова](https://www.youtube.com/watch?v=3Dmi4b8MkMM)
@@ -89,22 +60,6 @@
     [CSV](https://youtu.be/Pp2sMniG0FU)
     
 
-**Разработка графических интерфейсов (GUI):**
-
-- Tkinter
-    
-- PyQt
-    
-- PyGTK
-    
-- wxPython
-    
-    Плейлист разработок GUI на PyQt:
-    
-    [https://www.youtube.com/playlist?list=PL6plRXMq5RADiWZuyZvVYnhncVixVKgBN](https://www.youtube.com/playlist?list=PL6plRXMq5RADiWZuyZvVYnhncVixVKgBN)
-    
-    [https://youtube.com/playlist?list=PLKl9v2TQvIkq4i_hZwZ1PmobxJSkIGwBf](https://youtube.com/playlist?list=PLKl9v2TQvIkq4i_hZwZ1PmobxJSkIGwBf)
-    
 
 **Регулярные выражения:**
 
