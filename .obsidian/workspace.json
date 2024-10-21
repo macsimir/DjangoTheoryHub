@@ -4,25 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "318a00cd855c434e",
+        "id": "29480d4081adbce4",
         "type": "tabs",
         "children": [
           {
-            "id": "8d7e4d92d38ce2e5",
+            "id": "bbe17e5736226402",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python.md",
+                "file": "Python. План по изучению.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "python"
+              "title": "Python. План по изучению"
             }
           },
           {
-            "id": "c6f67c5e0d662088",
+            "id": "ca35371649362414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Функциональное программирование/2. Функции высшего порядка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Функции высшего порядка"
+            }
+          },
+          {
+            "id": "6cb22375e42389a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +48,9 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "98f2b81473248c2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/1.Типы данных/2. Числа(init, float).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Числа(init, float)"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,37 +202,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f67c5e0d662088",
+  "active": "6cb22375e42389a8",
   "lastOpenFiles": [
-    "python.md",
-    "Python/База",
+    "Python/Функциональное программирование/2. Функции высшего порядка.md",
+    "Python/Функциональное программирование/1. Чистые функции.md",
+    "Python. План по изучению.md",
     "README.md",
+    "Самые базовые знания/1.Переменные и выражения.md",
+    "Самые базовые знания",
+    "Python/1.Типы данных/2. Числа(init, float).md",
+    "Computer science/3.Стек протоколов TCP IP/Стек протоколов TCP IP.md",
+    "Без названия.canvas",
+    "Python/1.Типы данных/3. Cтроки (str).md",
+    "Python/1.Типы данных/1. Типы данных.md",
+    "Python/База",
     "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
     "Python/Асинхронность/Асинхронность.md",
     "Python/ООП/1.Классы и объекты.md",
     "Python/ООП/2.Инкапсуляция.md",
     "палина.md",
     "conflict-files-obsidian-git.md",
-    "Python/Функциональное программирование/2. Функции высшего порядка.md",
-    "Python/Функциональное программирование/1. Чистые функции.md",
     "Python/Функциональное программирование",
     "Python/ООП/4. Полиморфизм.md",
     "Python/ООП/ООП.md",
     "Python/ООП/3.Наследование.md",
     "Pasted image 20241019025121.png",
     "Pasted image 20241019025143.png",
-    "Python/1.Типы данных/2. Числа(init, float).md",
     "Computer science/Computer science.md",
     "Python/1.Типы данных/5. Словари(dict).md",
     "Python/1.Типы данных/4. Списки(list).md",
-    "Python/1.Типы данных/3. Cтроки (str).md",
-    "Python/1.Типы данных/1. Типы данных.md",
     "Python/1.Типы данных/8. Булевые значения (bool).md",
     "Pasted.md",
     "Python/1.Типы данных/7. Множества(set).md",
     "Django/Django.md",
     "].md",
-    "Computer science/2.Компьютерные сети/Компьютерные сети.md",
     "Computer science/3.Стек протоколов TCP IP",
     "Computer science/2.Компьютерные сети",
     "Без названия 1",
@@ -240,9 +243,7 @@
     "Computer science/1.Передача информации",
     "Computer science",
     "API",
-    "Python/Асинхронность",
     "img/Pasted image 20241013015101.png",
-    "Без названия.canvas",
     "img/Pasted image 20241009013327.png",
     "img/Pasted image 20241009012849.png",
     "img/Pasted image 20241009012510.png",
