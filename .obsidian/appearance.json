@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Pink Topaz",
+  "cssTheme": "ITS Theme",
   "theme": "obsidian",
-  "accentColor": "#ba4081"
+  "accentColor": "#ba4081",
+  "interfaceFontFamily": "JetBrains Mono"
 }
