@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Python. План по изучению.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Python. План по изучению"
+            }
+          },
+          {
+            "id": "a31a7d5b1d832933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python. План по изучению.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python. План по изучению"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,53 +216,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb22375e42389a8",
+  "active": "d618c9eb7493055d",
   "lastOpenFiles": [
-    "Python/Функциональное программирование/2. Функции высшего порядка.md",
-    "Python/Функциональное программирование/1. Чистые функции.md",
+    "Без названия.md",
     "Python. План по изучению.md",
     "README.md",
+    "Python/ООП/1.Классы и объекты.md",
+    "Cache/Pasted image 20241004122357.png",
+    "Cache/Pasted image 20241009012849.png",
+    "Cache/Pasted image 20241004122846.png",
+    "Pasted image 20241022041001.png",
+    "Pasted image 20241022040701.png",
+    "Cache",
+    "Python/Функциональное программирование/2. Функции высшего порядка.md",
+    "Python/Функциональное программирование/1. Чистые функции.md",
+    "Django/2.Создание формы.md",
+    "Computer science/2.Компьютерные сети/Компьютерные сети.md",
+    "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
+    "Computer science/1.Передача информации/Передача информации.md",
+    "Computer science/1.Передача информации/4.Аппаратура каналов связи.md",
+    "Computer science/1.Передача информации/3.Типы линий связи.md",
+    "Computer science/1.Передача информации/2.Каналы и линии связи.md",
+    "Python/1.Типы данных/1. Типы данных.md",
+    "Python/1.Типы данных/7. Множества(set).md",
+    "Python/1.Типы данных/8. Булевые значения (bool).md",
     "Самые базовые знания/1.Переменные и выражения.md",
     "Самые базовые знания",
     "Python/1.Типы данных/2. Числа(init, float).md",
     "Computer science/3.Стек протоколов TCP IP/Стек протоколов TCP IP.md",
     "Без названия.canvas",
     "Python/1.Типы данных/3. Cтроки (str).md",
-    "Python/1.Типы данных/1. Типы данных.md",
     "Python/База",
-    "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
     "Python/Асинхронность/Асинхронность.md",
-    "Python/ООП/1.Классы и объекты.md",
     "Python/ООП/2.Инкапсуляция.md",
     "палина.md",
     "conflict-files-obsidian-git.md",
     "Python/Функциональное программирование",
     "Python/ООП/4. Полиморфизм.md",
     "Python/ООП/ООП.md",
-    "Python/ООП/3.Наследование.md",
     "Pasted image 20241019025121.png",
     "Pasted image 20241019025143.png",
-    "Computer science/Computer science.md",
-    "Python/1.Типы данных/5. Словари(dict).md",
-    "Python/1.Типы данных/4. Списки(list).md",
-    "Python/1.Типы данных/8. Булевые значения (bool).md",
-    "Pasted.md",
-    "Python/1.Типы данных/7. Множества(set).md",
-    "Django/Django.md",
-    "].md",
     "Computer science/3.Стек протоколов TCP IP",
     "Computer science/2.Компьютерные сети",
     "Без названия 1",
     "1.Модель",
     "Computer science/1.Передача информации",
     "Computer science",
-    "API",
-    "img/Pasted image 20241013015101.png",
-    "img/Pasted image 20241009013327.png",
-    "img/Pasted image 20241009012849.png",
-    "img/Pasted image 20241009012510.png",
-    "img/Pasted image 20241004122846.png",
-    "img/Pasted image 20241004122357.png",
+    "Cache/Pasted image 20241013015101.png",
+    "Cache/Pasted image 20241009013327.png",
+    "Cache/Pasted image 20241009012510.png",
     "Docker/Без названия.canvas"
   ]
 }
