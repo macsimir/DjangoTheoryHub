@@ -27,26 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функциональное программирование/2. Функции высшего порядка.md",
+                "file": "Python. План по изучению.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Функции высшего порядка"
+              "title": "Python. План по изучению"
             }
           },
           {
-            "id": "6cb22375e42389a8",
+            "id": "a4364a95242561a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Вопросы с собеседований/Вопросы Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Вопросы Python"
             }
           }
         ],
@@ -202,28 +202,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb22375e42389a8",
+  "active": "a4364a95242561a5",
   "lastOpenFiles": [
-    "Python/Функциональное программирование/2. Функции высшего порядка.md",
-    "Python/Функциональное программирование/1. Чистые функции.md",
+    "Python/1.Типы данных/1. Типы данных.md",
+    "Вопросы с собеседований/Вопросы Python.md",
     "Python. План по изучению.md",
+    "Вопросы с собеседований",
+    "Python/ООП/4.Полиморфизм.md",
+    "Python/ООП/1.Классы и объекты.md",
+    "Docker",
+    "Python/Функциональное программирование/2. Функции высшего порядка.md",
+    "Без названия.canvas",
+    "Python/1.Типы данных/3. Cтроки (str).md",
+    "Django/1.Подключение templates.md",
+    "Python/Функциональное программирование/1. Чистые функции.md",
     "README.md",
     "Самые базовые знания/1.Переменные и выражения.md",
     "Самые базовые знания",
     "Python/1.Типы данных/2. Числа(init, float).md",
     "Computer science/3.Стек протоколов TCP IP/Стек протоколов TCP IP.md",
-    "Без названия.canvas",
-    "Python/1.Типы данных/3. Cтроки (str).md",
-    "Python/1.Типы данных/1. Типы данных.md",
     "Python/База",
     "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
     "Python/Асинхронность/Асинхронность.md",
-    "Python/ООП/1.Классы и объекты.md",
     "Python/ООП/2.Инкапсуляция.md",
     "палина.md",
     "conflict-files-obsidian-git.md",
     "Python/Функциональное программирование",
-    "Python/ООП/4. Полиморфизм.md",
     "Python/ООП/ООП.md",
     "Python/ООП/3.Наследование.md",
     "Pasted image 20241019025121.png",
@@ -234,15 +238,11 @@
     "Python/1.Типы данных/8. Булевые значения (bool).md",
     "Pasted.md",
     "Python/1.Типы данных/7. Множества(set).md",
-    "Django/Django.md",
-    "].md",
     "Computer science/3.Стек протоколов TCP IP",
     "Computer science/2.Компьютерные сети",
     "Без названия 1",
     "1.Модель",
     "Computer science/1.Передача информации",
-    "Computer science",
-    "API",
     "img/Pasted image 20241013015101.png",
     "img/Pasted image 20241009013327.png",
     "img/Pasted image 20241009012849.png",
