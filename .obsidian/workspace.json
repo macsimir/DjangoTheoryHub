@@ -162,7 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b6020a033e280afe",
@@ -258,14 +258,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a31a7d5b1d832933",
+  "active": "d618c9eb7493055d",
   "lastOpenFiles": [
+    "Django channels",
+    "Django/3. Подключение static файлов.md",
+    "Python/Асинхронность/Асинхронность.md",
     "Python/1.Типы данных/1. Типы данных.md",
     "Вопросы с собеседований/Вопросы Python.md",
     "Python/Работа с файлами/Базовая работа с файлами.md",
     "Python/ООП/1.Классы и объекты.md",
     "Python/ООП/2.Инкапсуляция.md",
-    "Python/Асинхронность/Асинхронность.md",
     "README.md",
     "Python. План по изучению.md",
     "Контекстный менеджер.md",
@@ -294,8 +296,6 @@
     "Computer science/2.Компьютерные сети/Компьютерные сети.md",
     "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
     "Computer science/1.Передача информации/Передача информации.md",
-    "Computer science/1.Передача информации/4.Аппаратура каналов связи.md",
-    "Computer science/1.Передача информации/3.Типы линий связи.md",
     "Самые базовые знания",
     "Без названия.canvas",
     "Python/База",
