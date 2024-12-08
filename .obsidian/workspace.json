@@ -4,105 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "29480d4081adbce4",
+        "id": "066f1b71785cd797",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe17e5736226402",
+            "id": "83c37a9aa5f927e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python. План по изучению.md",
+                "file": "Python/1.Основы/Типы данных/1. Числа(init, float).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python. План по изучению"
+              "title": "1. Числа(init, float)"
             }
           },
           {
-            "id": "ca35371649362414",
+            "id": "1a4a094c541b2f10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Функциональное программирование/2. Функции высшего порядка.md",
+                "file": "Python/1.Основы/Типы данных/2. Cтроки (str).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Функции высшего порядка"
+              "title": "2. Cтроки (str)"
             }
           },
           {
-            "id": "6cb22375e42389a8",
+            "id": "c20ae4d4e9791c9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python. План по изучению.md",
+                "file": "Python/1.Основы/Типы данных/3. Списки(list).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python. План по изучению"
+              "title": "3. Списки(list)"
             }
           },
           {
-            "id": "a31a7d5b1d832933",
+            "id": "e1d99bdca787fb02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Асинхронность/Асинхронность.md",
+                "file": "Python/1.Основы/Типы данных/4. Словари(dict).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асинхронность"
-            }
-          },
-          {
-            "id": "9a3041e532a25572",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/ООП/1.Классы и объекты.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.Классы и объекты"
-            }
-          },
-          {
-            "id": "f3dc9d0bedea5254",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/1.Типы данных/1. Типы данных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Типы данных"
-            }
-          },
-          {
-            "id": "3e11bc9eb22bb8d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Работа с файлами/Базовая работа с файлами.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Базовая работа с файлами"
+              "title": "4. Словари(dict)"
             }
           }
         ],
@@ -258,55 +216,55 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d618c9eb7493055d",
+  "active": "e1d99bdca787fb02",
   "lastOpenFiles": [
-    "Django channels",
-    "Django/3. Подключение static файлов.md",
-    "Python/Асинхронность/Асинхронность.md",
-    "Python/1.Типы данных/1. Типы данных.md",
-    "Вопросы с собеседований/Вопросы Python.md",
-    "Python/Работа с файлами/Базовая работа с файлами.md",
+    "Python/1.Основы/2.Типы данных.md",
+    "Python/1.Основы/Типы данных/4. Словари(dict).md",
+    "Python/1.Основы/Типы данных/3. Списки(list).md",
+    "Python/1.Основы/Типы данных/2. Cтроки (str).md",
+    "Python/1.Основы/Типы данных/1. Числа(init, float).md",
+    "Python/1.Основы/1.Переменные и выражения.md",
+    "Python/ООП/3.Наследование.md",
     "Python/ООП/1.Классы и объекты.md",
-    "Python/ООП/2.Инкапсуляция.md",
-    "README.md",
+    "Python/1.Основы/Типы данных/7.Булевые значения (bool).md",
+    "Python/1.Основы/Типы данных/6. Множества(set).md",
+    "Python/1.Основы/Типы данных/5. Кортежи(tup).md",
+    "Python/1.Основы/3.Типы данных/1. Типы данных.md",
     "Python. План по изучению.md",
-    "Контекстный менеджер.md",
-    "Python/Работа с файлами/Работа  файлами разного формата.md",
-    "Контекстный менеджер",
-    "Python/1.Типы данных/8. Булевые значения (bool).md",
-    "Python/1.Типы данных/7. Множества(set).md",
-    "Python/1.Типы данных/6. Кортежи(tup).md",
-    "Python/1.Типы данных/5. Словари(dict).md",
-    "Python/1.Типы данных/4. Списки(list).md",
-    "Python/1.Типы данных/3. Cтроки (str).md",
-    "Python/1.Типы данных/2. Числа(init, float).md",
-    "Вопросы с собеседований",
+    "Циклы (for , while).md",
+    "Python/ООП/2.Инкапсуляция.md",
     "Python/ООП/4.Полиморфизм.md",
+    "Django channels/Web Socket.md",
+    "Условные операторы (if, else).md",
+    "README.md",
+    "Python/1.Основы",
+    "Вопросы с собеседований/Вопросы Python.md",
+    "Computer science",
+    "Django/1.Подключение templates.md",
+    "Python/Работа с файлами/Базовая работа с файлами.md",
+    "Сети",
+    "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
+    "Computer science/1.Передача информации/2.Каналы и линии связи.md",
+    "Computer science/Computer science.md",
+    "Computer science/3.Стек протоколов TCP IP/Стек протоколов TCP IP.md",
     "Cache/Pasted image 20241022195938.png",
-    "Python/Функциональное программирование/2. Функции высшего порядка.md",
-    "Python/Работа с файлами",
-    "Cache/Pasted image 20241004122357.png",
+    "Cache/Pasted image 20241013015101.png",
     "Cache/Pasted image 20241009012849.png",
+    "Cache/Pasted image 20241009012510.png",
     "Cache/Pasted image 20241004122846.png",
+    "Cache/Pasted image 20241004122357.png",
+    "Cache/Pasted image 20241127035219.png",
+    "Django channels",
+    "Контекстный менеджер",
+    "Вопросы с собеседований",
+    "Python/Работа с файлами",
     "Pasted image 20241022041001.png",
     "Pasted image 20241022040701.png",
     "Cache",
-    "Python/Функциональное программирование/1. Чистые функции.md",
-    "Django/2.Создание формы.md",
-    "Computer science/2.Компьютерные сети/Компьютерные сети.md",
-    "Computer science/1.Передача информации/1.Модель системы передачи информации.md",
-    "Computer science/1.Передача информации/Передача информации.md",
     "Самые базовые знания",
     "Без названия.canvas",
     "Python/База",
-    "Python/Функциональное программирование",
     "Pasted image 20241019025121.png",
-    "Pasted image 20241019025143.png",
-    "Computer science/3.Стек протоколов TCP IP",
-    "Computer science/2.Компьютерные сети",
-    "Без названия 1",
-    "Cache/Pasted image 20241013015101.png",
-    "Cache/Pasted image 20241009013327.png",
     "Docker/Без названия.canvas"
   ]
 }
