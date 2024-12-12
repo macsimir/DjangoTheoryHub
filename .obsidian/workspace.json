@@ -50,34 +50,6 @@
             }
           },
           {
-            "id": "6474d699d5ec5b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "a1d8ebf103451bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
             "id": "ee836d74bfa24152",
             "type": "leaf",
             "state": {
@@ -92,35 +64,21 @@
             }
           },
           {
-            "id": "331c3e3e4cf5c3ba",
+            "id": "b78bd6c3f4b1eb1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "ec79aa125cb720e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,12 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "331c3e3e4cf5c3ba",
+  "active": "b78bd6c3f4b1eb1f",
   "lastOpenFiles": [
-    "Python. План по изучению.md",
-    "conflict-files-obsidian-git.md",
-    "README.md",
     "Вопросы с собеседований/Вопросы Python.md",
+    "README.md",
+    "conflict-files-obsidian-git.md",
+    "Python. План по изучению.md",
+    "README.md",
     "Cache/Pasted image 20241022195938.png",
     "Cache/Pasted image 20241127035219.png",
     "Cache/Pasted image 20241004122846.png",
@@ -302,7 +261,6 @@
     "Django/Циклы (for , while).md",
     "Условные операторы (if, else).md",
     "Циклы (for , while).md",
-    "Без названия.md",
     "Python/1.Основы/Типы данных/4. Словари(dict).md",
     "Python/1.Основы/Типы данных/3. Списки(list).md",
     "Python/1.Основы/Типы данных/1. Числа(init, float).md",
