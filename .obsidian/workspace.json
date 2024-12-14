@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "066f1b71785cd797",
+        "id": "e3b4e505e23fbde5",
         "type": "tabs",
         "children": [
           {
-            "id": "83c37a9aa5f927e5",
+            "id": "d06f947136b5603a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/1.Основы/Типы данных/1. Числа(init, float).md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Числа(init, float)"
-            }
-          },
-          {
-            "id": "1a4a094c541b2f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/1.Основы/Типы данных/2. Cтроки (str).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Cтроки (str)"
-            }
-          },
-          {
-            "id": "c20ae4d4e9791c9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/1.Основы/Типы данных/3. Списки(list).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Списки(list)"
-            }
-          },
-          {
-            "id": "e1d99bdca787fb02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Функциональное программирование/1. Чистые функции.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Чистые функции"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,8 +173,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1d99bdca787fb02",
+  "active": "d06f947136b5603a",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "README.md",
     "Python/Функциональное программирование/1. Чистые функции.md",
     "Python. План по изучению.md",
@@ -243,7 +201,6 @@
     "Python/1.Основы/Типы данных/3. Списки(list).md",
     "Python/1.Основы/Типы данных/1. Числа(init, float).md",
     "Python/ООП/1.Классы и объекты.md",
-    "Python/1.Основы/Типы данных/7.Булевые значения (bool).md",
     "Python/1.Основы",
     "Computer science",
     "Сети",
