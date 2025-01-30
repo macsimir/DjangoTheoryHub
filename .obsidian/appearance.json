@@ -1,6 +1,10 @@
 {
+<<<<<<< HEAD
   "cssTheme": "Obsidianite",
+=======
+  "cssTheme": "Pink Topaz",
+>>>>>>> origin/main
   "theme": "obsidian",
-  "accentColor": "#ba4081",
+  "accentColor": "#d95482",
   "interfaceFontFamily": "JetBrains Mono"
 }
