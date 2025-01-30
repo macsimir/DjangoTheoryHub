@@ -53,14 +53,10 @@
             "id": "e1d99bdca787fb02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/1.Основы/2.Типы данных.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.Типы данных"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -218,13 +214,14 @@
   },
   "active": "e1d99bdca787fb02",
   "lastOpenFiles": [
+    "README.md",
+    "Python/1.Основы/1.Переменные и выражения.md",
+    "Python/1.Основы/2.Типы данных.md",
     "Python/1.Основы/4.Циклы (for , while).md",
     "Python/1.Основы/3.Условные операторы (if, else).md",
-    "Python/1.Основы/2.Типы данных.md",
     "Python/1.Основы/Условные операторы (if, else) 1.md",
     "Python/1.Основы/Циклы (for , while) 1.md",
     "Python/1.Основы/Типы данных/2. Cтроки (str).md",
-    "Python/1.Основы/1.Переменные и выражения.md",
     "Python/ООП/3.Наследование.md",
     "Python/ООП/2.Инкапсуляция.md",
     "Python/Работа с файлами/Работа  файлами разного формата.md",
@@ -236,7 +233,6 @@
     "Условные операторы (if, else).md",
     "Циклы (for , while).md",
     "Без названия.md",
-    "README.md",
     "Python/1.Основы/Типы данных/4. Словари(dict).md",
     "Python/1.Основы/Типы данных/3. Списки(list).md",
     "Python/1.Основы/Типы данных/1. Числа(init, float).md",
