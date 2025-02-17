@@ -1,10 +1,3 @@
 {
-<<<<<<< HEAD
-  "cssTheme": "Obsidianite",
-=======
-  "cssTheme": "Pink Topaz",
->>>>>>> origin/main
-  "theme": "obsidian",
-  "accentColor": "#d95482",
-  "interfaceFontFamily": "JetBrains Mono"
+  "cssTheme": "GitHub Theme"
 }
