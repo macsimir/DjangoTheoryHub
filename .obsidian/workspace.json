@@ -55,40 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/1.Основные понятия.md",
+                "file": "Сети/3.IP-адрес.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Основные понятия"
-            }
-          },
-          {
-            "id": "7f1f40ba5d807235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сети/1.Основные понятия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.Основные понятия"
-            }
-          },
-          {
-            "id": "6ff7109d9620657b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Сети/1.Основные понятия.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.Основные понятия"
+              "title": "3.IP-адрес"
             }
           },
           {
@@ -97,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/1.Основные понятия.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.Основные понятия"
+              "title": "README"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -251,7 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,35 +236,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a217d6480ec4b867",
+  "active": "456136cb203f059e",
   "lastOpenFiles": [
     "Сети/2.Сетевая топология.md",
-    "Сети/3.IP-адрес.md",
+    "Сети/4.DNS.md",
     "Сети/1.Основные понятия.md",
-    "Cache/Pasted image 20250217190141.png",
     "Сети/Доп.понятия.md",
+    "Django/Циклы (for , while).md",
+    "README.md",
+    "Python/ООП/ООП.md",
+    "Python. План по изучению.md",
+    "Python/1.Основы/1.Переменные и выражения.md",
+    "Python/1.Основы/2.Типы данных.md",
+    "Python/ООП/1.Классы и объекты.md",
+    "Python/Асинхронность/Асинхронность.md",
+    "Django/Django.md",
+    "Python/Работа с файлами/Работа  файлами разного формата.md",
+    "Python/Работа с файлами",
+    "Django/Django channels/Web Socket.md",
+    "Django/Django channels/1.Установка.md",
+    "Django channels/Web Socket.md",
+    "Python/1.Основы/Циклы (for , while).md",
+    "Python/1.Основы/Условные операторы (if, else).md",
+    "Python/1.Основы/4.Циклы (for , while).md",
+    "Python/1.Основы/3.Условные операторы (if, else).md",
+    "Python/Функциональное программирование/1. Чистые функции.md",
+    "Python/1.Основы/Условные операторы (if, else) 1.md",
+    "Python/1.Основы/Циклы (for , while) 1.md",
+    "Python/Условные операторы (if, else).md",
+    "Python/Работа с файлами/Базовая работа с файлами.md",
+    "Cache/Pasted image 20250217205437.png",
+    "Cache/Pasted image 20250217190141.png",
     "Cache/Pasted image 20250217183700.png",
     "Cache/Pasted image 20250215222754.png",
-    "Сети.md",
     "Сети",
-    "Python. План по изучению.md",
-    "Linux comand.md",
-    "Циклы (for , while).md",
-    "Условные операторы (if, else).md",
-    "2.Простой проект.md",
-    "1.Базовая настройка.md",
-    "Без названия 1.md",
-    "Сети/Доп.понятия/Ethernet.md",
     "Сети/Доп.понятия",
     "Сети",
     "Cache/Pasted image 20250215214219.png",
-    "README.md",
-    "Python/1.Основы/Циклы (for , while).md",
-    "Python/1.Основы/Циклы (for , while) 1.md",
-    "Python/1.Основы/Условные операторы (if, else).md",
-    "Python/1.Основы/Условные операторы (if, else) 1.md",
-    "Django/Циклы (for , while).md",
-    "Django channels/Web Socket.md",
     "Django channels"
   ]
 }
