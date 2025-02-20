@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "787d1039a2192fbf",
+        "id": "4b6b9aa5a8dcb665",
         "type": "tabs",
         "children": [
           {
-            "id": "5adce3f84bd7fe04",
+            "id": "9b64aa4224fe5202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/6.Передача данных в шаблон.md",
+                "file": "Сети/7.Протокол HTTP и HTTPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.Передача данных в шаблон"
+              "title": "7.Протокол HTTP и HTTPS"
             }
           }
         ]
@@ -179,34 +179,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5adce3f84bd7fe04",
+  "active": "9b64aa4224fe5202",
   "lastOpenFiles": [
+    "Django/7.WSGI и ASGI.md",
+    "Django channels/2.Установка Django channels.md",
+    "Django channels/1.Основные понятия о Channels.md",
+    "Django/Django.md",
     "Django/5.Диспетчер URL.md",
-    "Django/6.Передача данных в шаблон.md",
     "Django/4.Создание и подключение модели.md",
+    "Django/3. Подключение static файлов.md",
+    "Django/2.Создание формы.md",
     "Django/1.Подключение templates.md",
-    "Python/1.Основы/Типы данных/2. Cтроки (str).md",
-    "Python/1.Основы/2.Типы данных.md",
-    "Сети/3.IP-адрес.md",
-    "Сети/6.Сетевая модель OSI.md",
-    "Сети/1.Основные понятия.md",
     "README.md",
     "Python. План по изучению.md",
     "Вопросы Python.md",
+    "Сети/3.IP-адрес.md",
+    "Сети/7.Протокол HTTP и HTTPS.md",
+    "Сети/6.Сетевая модель OSI.md",
+    "Сети/Доп.понятия.md",
+    "Сети/1.Основные понятия.md",
+    "Без названия 1",
+    "Без названия",
+    "Django/6.Передача данных в шаблон.md",
+    "Python/1.Основы/Типы данных/2. Cтроки (str).md",
+    "Python/1.Основы/2.Типы данных.md",
     "Python/Функциональное программирование/1. Чистые функции.md",
     "Python/Функциональное программирование/2. Функции высшего порядка.md",
     "Python/ООП/1.Классы и объекты.md",
     "Python/Асинхронность/Асинхронность.md",
     "Python/ООП/ООП.md",
     "Python/ООП/2.Инкапсуляция.md",
-    "Python/ООП/3.Наследование.md",
-    "Python/ООП/4.Полиморфизм.md",
-    "Python/1.Основы/Типы данных/1. Числа(init, float).md",
-    "Django/Django.md",
-    "Django/Django channels/1.Установка.md",
-    "Django/Циклы (for , while).md",
-    "Сети/7.Протокол HTTP и HTTPS.md",
-    "Сети/Доп.понятия.md",
     "Cache/Pasted image 20250218103308.png",
     "Cache/Pasted image 20250218101543.png",
     "Python/Работа с файлами",
