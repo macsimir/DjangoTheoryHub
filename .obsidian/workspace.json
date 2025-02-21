@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сети/7.Протокол HTTP и HTTPS.md",
+                "file": "Django/4.Создание и подключение модели.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.Протокол HTTP и HTTPS"
+              "title": "4.Создание и подключение модели"
             }
           }
         ]
@@ -181,23 +181,23 @@
   },
   "active": "9b64aa4224fe5202",
   "lastOpenFiles": [
+    "Python. План по изучению.md",
+    "README.md",
+    "Сети/7.Протокол HTTP и HTTPS.md",
+    "Django/4.Создание и подключение модели.md",
+    "Django/3. Подключение static файлов.md",
+    "Django/2.Создание формы.md",
+    "Django/5.Диспетчер URL.md",
+    "Сети/1.Основные понятия.md",
     "Django/7.WSGI и ASGI.md",
     "Django channels/2.Установка Django channels.md",
     "Django channels/1.Основные понятия о Channels.md",
     "Django/Django.md",
-    "Django/5.Диспетчер URL.md",
-    "Django/4.Создание и подключение модели.md",
-    "Django/3. Подключение static файлов.md",
-    "Django/2.Создание формы.md",
     "Django/1.Подключение templates.md",
-    "README.md",
-    "Python. План по изучению.md",
     "Вопросы Python.md",
     "Сети/3.IP-адрес.md",
-    "Сети/7.Протокол HTTP и HTTPS.md",
     "Сети/6.Сетевая модель OSI.md",
     "Сети/Доп.понятия.md",
-    "Сети/1.Основные понятия.md",
     "Без названия 1",
     "Без названия",
     "Django/6.Передача данных в шаблон.md",
