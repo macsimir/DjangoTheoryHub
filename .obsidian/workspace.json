@@ -4,21 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "4b6b9aa5a8dcb665",
+        "id": "ffb6615c6e0e805d",
         "type": "tabs",
         "children": [
           {
-            "id": "9b64aa4224fe5202",
+            "id": "a538186d5d868cc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/4.Создание и подключение модели.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.Создание и подключение модели"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "04bafed9544a55e5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -45,6 +51,20 @@
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d1ab03226ce3ae53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/1.Основы/2.Типы данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.Типы данных"
             }
           },
           {
@@ -179,36 +199,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b64aa4224fe5202",
+  "active": "a538186d5d868cc1",
   "lastOpenFiles": [
-    "Python. План по изучению.md",
+    "Базовый JS.md",
+    "f.md",
     "README.md",
-    "Сети/7.Протокол HTTP и HTTPS.md",
-    "Django/4.Создание и подключение модели.md",
-    "Django/3. Подключение static файлов.md",
-    "Django/2.Создание формы.md",
-    "Django/5.Диспетчер URL.md",
-    "Сети/1.Основные понятия.md",
-    "Django/7.WSGI и ASGI.md",
-    "Django channels/2.Установка Django channels.md",
-    "Django channels/1.Основные понятия о Channels.md",
     "Django/Django.md",
-    "Django/1.Подключение templates.md",
-    "Вопросы Python.md",
-    "Сети/3.IP-адрес.md",
-    "Сети/6.Сетевая модель OSI.md",
-    "Сети/Доп.понятия.md",
+    "Python/1.Основы/2.Типы данных.md",
+    "Без названия.canvas",
+    "Python/1.Основы/Типы данных/4. Словари (dicts).md",
+    "4.Словари (dicts).md",
+    "Python/1.Основы/3.Функции.md",
+    "Python/0.Python.md",
+    "Python/1.Основы/1.Переменные и выражения.md",
+    "Python/1.Основы/Типы данных/1. Числа(init, float).md",
+    "Python/1.Основы/Типы данных/4. Словари(dict).md",
+    "Python/ООП/ООП.md",
+    "Python/ООП/4.Полиморфизм.md",
+    "Django channels/2.Установка Django channels.md",
+    "Python/1.Основы/Типы данных/7. Булевые значения (bool).md",
+    "Python/1.Основы/Типы данных/6. Множества(set).md",
+    "Python/1.Основы/Типы данных/5. Кортежи(tup).md",
+    "Python/1.Основы/Типы данных/3. Списки(list).md",
+    "Python/1.Основы/Типы данных/2. Cтроки (str).md",
+    "Python. План по изучению.md",
+    "Python/Асинхронность.md",
+    "Python/Функциональное программирование/2. Функции высшего порядка.md",
+    "Python/Функциональное программирование/1. Чистые функции.md",
+    "1. Типы данных.md",
+    "Django channels/3.Асинхронный запуск Channels.md",
+    "Cache/Pasted image 20250221233417.png",
     "Без названия 1",
     "Без названия",
-    "Django/6.Передача данных в шаблон.md",
-    "Python/1.Основы/Типы данных/2. Cтроки (str).md",
-    "Python/1.Основы/2.Типы данных.md",
-    "Python/Функциональное программирование/1. Чистые функции.md",
-    "Python/Функциональное программирование/2. Функции высшего порядка.md",
-    "Python/ООП/1.Классы и объекты.md",
-    "Python/Асинхронность/Асинхронность.md",
-    "Python/ООП/ООП.md",
-    "Python/ООП/2.Инкапсуляция.md",
     "Cache/Pasted image 20250218103308.png",
     "Cache/Pasted image 20250218101543.png",
     "Python/Работа с файлами",
