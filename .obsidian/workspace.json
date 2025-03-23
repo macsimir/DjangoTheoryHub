@@ -8,26 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a538186d5d868cc1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
             "id": "04bafed9544a55e5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Django/4.Создание и подключение модели.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.Создание и подключение модели"
+            }
+          },
+          {
+            "id": "052283221e04c67e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Сети/Доп.понятия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Доп.понятия"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,41 +208,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a538186d5d868cc1",
+  "active": "052283221e04c67e",
   "lastOpenFiles": [
-    "Базовый JS.md",
-    "f.md",
-    "README.md",
-    "Django/Django.md",
-    "Python/1.Основы/2.Типы данных.md",
-    "Без названия.canvas",
-    "Python/1.Основы/Типы данных/4. Словари (dicts).md",
-    "4.Словари (dicts).md",
-    "Python/1.Основы/3.Функции.md",
-    "Python/0.Python.md",
-    "Python/1.Основы/1.Переменные и выражения.md",
-    "Python/1.Основы/Типы данных/1. Числа(init, float).md",
-    "Python/1.Основы/Типы данных/4. Словари(dict).md",
-    "Python/ООП/ООП.md",
-    "Python/ООП/4.Полиморфизм.md",
+    "Django channels/Web Socket.md",
+    "Сети/Доп.понятия.md",
+    "Django channels/1.Основные понятия о Channels.md",
     "Django channels/2.Установка Django channels.md",
-    "Python/1.Основы/Типы данных/7. Булевые значения (bool).md",
-    "Python/1.Основы/Типы данных/6. Множества(set).md",
-    "Python/1.Основы/Типы данных/5. Кортежи(tup).md",
-    "Python/1.Основы/Типы данных/3. Списки(list).md",
-    "Python/1.Основы/Типы данных/2. Cтроки (str).md",
-    "Python. План по изучению.md",
-    "Python/Асинхронность.md",
+    "Django channels/3.Асинхронный запуск Channels.md",
+    "Django/Django.md",
+    "8.Отправка и получение куки.md",
+    "Django/4.Создание и подключение модели.md",
+    "Django/6.Передача данных в шаблон.md",
+    "Django/5.Диспетчер URL.md",
+    "Django/2.Создание формы.md",
+    "Django/3. Подключение static файлов.md",
+    "Циклы (for , while).md",
+    "Условные операторы (if, else).md",
+    "Вопросы с собеседований/Вопросы Python.md",
+    "Вопросы с собеседований",
+    "Без названия.md",
     "Python/Функциональное программирование/2. Функции высшего порядка.md",
     "Python/Функциональное программирование/1. Чистые функции.md",
-    "1. Типы данных.md",
-    "Django channels/3.Асинхронный запуск Channels.md",
+    "Python/Функциональное программирование",
+    "Python/Условные операторы (if, else).md",
+    "Python/Работа с файлами/Работа  файлами разного формата.md",
+    "Python/Работа с файлами/Базовая работа с файлами.md",
+    "Python/Работа с файлами",
+    "Python/Асинхронность/Асинхронность.md",
+    "Python/Асинхронность",
+    "Python/1.Основы/Циклы (for , while).md",
+    "Python/1.Основы/Циклы (for , while) 1.md",
+    "Python/1.Основы/Условные операторы (if, else).md",
+    "Python/1.Основы/Условные операторы (if, else) 1.md",
+    "Django/Django channels",
+    "Без названия.canvas",
     "Cache/Pasted image 20250221233417.png",
     "Без названия 1",
     "Без названия",
     "Cache/Pasted image 20250218103308.png",
     "Cache/Pasted image 20250218101543.png",
-    "Python/Работа с файлами",
     "Cache/Pasted image 20250217205437.png",
     "Cache/Pasted image 20250217190141.png",
     "Cache/Pasted image 20250217183700.png",
@@ -241,7 +254,6 @@
     "Сети",
     "Сети/Доп.понятия",
     "Сети",
-    "Cache/Pasted image 20250215214219.png",
-    "Django channels"
+    "Cache/Pasted image 20250215214219.png"
   ]
 }
