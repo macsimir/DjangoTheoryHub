@@ -4,39 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "193a136107ba88f7",
+        "id": "889c6276173ce302",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebfbd815de2c046",
+            "id": "7dccc667f8c97ecd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python. План по изучению.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python. План по изучению"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           },
           {
-            "id": "23a15413d84d4446",
+            "id": "c5061c60cf4b4e78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API.md",
+                "file": "Python/1.Основы/Типы данных/4. Словари(dict).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API"
+              "title": "4. Словари(dict)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -199,62 +194,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23a15413d84d4446",
+  "active": "7dccc667f8c97ecd",
   "lastOpenFiles": [
-    "Python. План по изучению.md",
-    "API.md",
-    "2025-05-12.md",
-    "Python/1.Основы/2.Типы данных.md",
+    "AIOGRAM/1.Начало создание ботов.md",
+    "Сети/2.Сетевая топология.md",
+    "1. Типы данных.md",
+    "README.md",
+    "Django/Django.md",
+    "Django/7.WSGI и ASGI.md",
+    "Без названия/Без названия 1",
+    "Сети/3.IP-адрес.md",
     "Сети/4.DNS.md",
-    "Сети/7.Протокол HTTP и HTTPS.md",
-    "Сети/Доп.понятия.md",
+    "AIOGRAM",
+    "Python/1.Основы/Типы данных/4. Словари (dicts).md",
+    "Python/1.Основы/Типы данных/4. Словари(dict).md",
+    "Python/1.Основы/Типы данных/6. Множества(set).md",
+    "Python/1.Основы/Типы данных/5. Кортежи(tup).md",
+    "Python/1.Основы/Типы данных/7. Булевые значения (bool).md",
+    "Python/1.Основы/1.Переменные и выражения.md",
+    "Python/1.Основы/3.Условные операторы(if,else,elif).md",
+    "Python/1.Основы/4.Функции.md",
+    "Python/1.Основы/6.Циклы (for , while).md",
+    "Python/1.Основы/5.Асинхронность.md",
+    "Django/Циклы (for , while).md",
     "Сети/1.Основные понятия.md",
-    "Django channels/3.Асинхронный запуск Channels.md",
+    "Python/1.Основы/Типы данных/7.Булевые значения (bool).md",
+    "Python/Асинхронность.md",
+    "Django/Django channels/3.Асинхронный запуск Channels.md",
+    "Python/3.Доп.информация/1.Работа с файлами.md",
+    "Django/Django channels/2.Установка Django channels.md",
+    "Django/Django channels/1.Основные понятия о Channels.md",
+    "Без названия",
+    "Без названия.canvas",
+    "Cache/Pasted image 20250221233417.png",
+    "Cache/Pasted image 20250218103308.png",
+    "Cache/Pasted image 20250218101543.png",
+    "Cache/Pasted image 20241127035219.png",
+    "Cache/Pasted image 20241009012849.png",
+    "Cache/Pasted image 20241009012510.png",
+    "Cache/Pasted image 20241004122357.png",
+    "AIOGRAM3",
     "Доп.инфа/Aiogram3",
     "Доп.инфа/Парсеры",
     "Доп.инфа",
-    "Вопросы с собеседований/Вопросы Python.md",
-    "Сети/Cache/Pasted image 20241004122357.png",
-    "Сети/5.Браузеры и их работа.md",
-    "Сети/6.Сетевая модель OSI.md",
-    "README.md",
-    "Python/1.Основы/Условные операторы (if, else).md",
-    "8.Отправка и получение куки.md",
-    "Базовый JS.md",
-    "Циклы (for , while).md",
-    "Условные операторы (if, else).md",
-    "2.Простой проект.md",
-    "1.Базовая настройка.md",
-    "Без названия.md",
-    "Django/1.Подключение templates.md",
-    "Django channels/Web Socket.md",
-    "Django channels/1.Основные понятия о Channels.md",
-    "Django channels/2.Установка Django channels.md",
-    "Django/Django.md",
     "Вопросы с собеседований",
     "Python/Функциональное программирование",
-    "Python/Работа с файлами",
-    "Python/Асинхронность",
-    "Django/Django channels",
-    "Без названия.canvas",
-    "Сети/Cache/Pasted image 20250221233417.png",
-    "Без названия 1",
-    "Без названия",
-    "Сети/Cache/Pasted image 20250218103308.png",
-    "Сети/Cache/Pasted image 20250218101543.png",
-    "Сети/Cache/Pasted image 20250217205437.png",
-    "Сети/Cache/Pasted image 20250217190141.png",
-    "Сети/Cache/Pasted image 20250217183700.png",
-    "Сети/Cache/Pasted image 20250215222754.png",
-    "Сети/Cache/Pasted image 20250215214219.png"
+    "Python/3.Доп.информация",
+    "Cache/Pasted image 20250217205437.png",
+    "Cache/Pasted image 20250217190141.png",
+    "Cache/Pasted image 20250217183700.png"
   ]
 }

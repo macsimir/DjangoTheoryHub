@@ -3,5 +3,6 @@
   "userIgnoreFilters": [
     "Cache/"
   ],
-  "attachmentFolderPath": "Cache"
+  "attachmentFolderPath": "Cache",
+  "promptDelete": false
 }
