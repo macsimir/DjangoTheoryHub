@@ -250,8 +250,9 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "a059ea2e951019f3",
+  "active": "7dd1d067cbc77527",
   "lastOpenFiles": [
+    "test",
     "Python/База данных/3.Модели с отношением один-ко-многим.md",
     "Python/База данных/1.Работа с БД.md",
     "Python/База данных/2.Операция с данными.md",
@@ -282,7 +283,6 @@
     "Django/Django.md",
     "Django/7.WSGI и ASGI.md",
     "Без названия/Без названия 1",
-    "Сети/3.IP-адрес.md",
     "AIOGRAM",
     "Cache/Pasted image 20250221233417.png",
     "Cache/Pasted image 20250218103308.png",
