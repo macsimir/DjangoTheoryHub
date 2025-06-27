@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"6abce17d95b7e141","type":"text","text":"Типы данных","x":215,"y":-620,"width":250,"height":60},
+		{"id":"893624942d180e92","type":"text","text":"#### **Числовые типы**\n\n| Тип               | Описание                                                         | Примеры СУБД              |\n| ----------------- | ---------------------------------------------------------------- | ------------------------- |\n| **INT / INTEGER** | Целое число                                                      | MySQL, PostgreSQL, SQLite |\n| **BIGINT**        | Большое целое число                                              | PostgreSQL, SQL Server    |\n| **SMALLINT**      | Маленькое целое число                                            | PostgreSQL, Oracle        |\n| **DECIMAL(p,s)**  | Точные числа с фиксированной запятой (p — точность, s — масштаб) | Все                       |\n| **FLOAT / REAL**  | Числа с плавающей запятой (приближённые)                         | Все                       |\n| **DOUBLE**        | Числа с двойной точностью                                        | MySQL, PostgreSQL         |","x":-520,"y":-500,"width":520,"height":591},
+		{"id":"d615f4d9de4a7fdb","type":"text","text":"#### **Символьные и строковые типы**\n\n|Тип|Описание|Примеры СУБД|\n|---|---|---|\n|**CHAR(n)**|Фиксированная длина строки (дополняется пробелами)|Все|\n|**VARCHAR(n)**|Строка переменной длины (макс. `n` символов)|Все|\n|**TEXT**|Длинный текст (неограниченный или очень большой)|PostgreSQL, MySQL|\n|**NCHAR / NVARCHAR**|Unicode-строки (поддержка разных языков)|SQL Server, Oracle|","x":76,"y":-443,"width":529,"height":477},
+		{"id":"ab5dcf7929f802e4","x":1040,"y":-590,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"6d28cbbe0c7a5812","fromNode":"6abce17d95b7e141","fromSide":"left","toNode":"893624942d180e92","toSide":"top"},
+		{"id":"0eb21f17c44d8813","fromNode":"6abce17d95b7e141","fromSide":"bottom","toNode":"d615f4d9de4a7fdb","toSide":"top"}
+	]
+}

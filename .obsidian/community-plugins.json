@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "obsidian-enhancing-export"
+  "obsidian-enhancing-export",
+  "lazy-plugins",
+  "image-converter",
+  "dataview",
+  "breadcrumbs",
+  "juggl"
 ]
