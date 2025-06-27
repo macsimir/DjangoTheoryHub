@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.Модели с отношением один-ко-многим.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Модели с отношением один-ко-многим"
+              "title": "README"
             }
           }
         ],
@@ -250,10 +250,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "9769c88a7f4e2c72",
+  "active": "a059ea2e951019f3",
   "lastOpenFiles": [
+    "Python/База данных/3.Модели с отношением один-ко-многим.md",
     "Python/База данных/1.Работа с БД.md",
-    "3.Модели с отношением один-ко-многим.md",
     "Python/База данных/2.Операция с данными.md",
     "Python/База данных/0.База данных.md",
     "Типы данных.md",
