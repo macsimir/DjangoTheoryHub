@@ -17,6 +17,15 @@
       },
       "image-converter": {
         "startupType": "instant"
+      },
+      "breadcrumbs": {
+        "startupType": "instant"
+      },
+      "dataview": {
+        "startupType": "instant"
+      },
+      "juggl": {
+        "startupType": "instant"
       }
     }
   }

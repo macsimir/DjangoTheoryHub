@@ -11,6 +11,30 @@
             "id": "c656541271f60fd8",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "e80cf5a47a75a208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Терминал/Базовые команды Linux.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Базовые команды Linux"
+            }
+          },
+          {
+            "id": "a0e12581f17bac22",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Python/База данных/1.Работа с БД.md",
@@ -27,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Сети/Доп.понятия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Доп.понятия"
             }
           }
         ],
@@ -114,104 +138,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5db60d57c37342d9",
+        "id": "8053ae9e4045fe7e",
         "type": "tabs",
         "children": [
           {
-            "id": "f45c6a0d68b60cd1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Сети/2.Сетевая топология.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Обратные ссылки для 2.Сетевая топология"
-            }
-          },
-          {
-            "id": "e7da9d20b9ec27b6",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Python. План по изучению.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Python. План по изучению"
-            }
-          },
-          {
-            "id": "42acb8331a8e3b4f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Теги"
-            }
-          },
-          {
-            "id": "7bb72889faf48e15",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Python. План по изучению.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура Python. План по изучению"
-            }
-          },
-          {
-            "id": "7dd1d067cbc77527",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "349dd7914a7adc26",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
-            }
-          },
-          {
-            "id": "150ec1b4f38718bb",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
-            }
-          },
-          {
-            "id": "c037eb45d08eebce",
+            "id": "da07dad604955df8",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -221,7 +152,7 @@
             }
           },
           {
-            "id": "5a956da6027dd2bd",
+            "id": "0cf8131662587618",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -229,9 +160,19 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "bdd10ad4654d4917",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -246,58 +187,58 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "obsidian-git:Open Git source control": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "juggl:Juggl global graph": false
+      "juggl:Juggl global graph": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7dd1d067cbc77527",
+  "active": "9769c88a7f4e2c72",
   "lastOpenFiles": [
-    "test",
-    "Python/База данных/3.Модели с отношением один-ко-многим.md",
-    "Python/База данных/1.Работа с БД.md",
-    "Python/База данных/2.Операция с данными.md",
-    "Python/База данных/0.База данных.md",
-    "Типы данных.md",
-    "Python/База данных/Типы данных.canvas",
-    "Python/1.Основы/Типы данных/5. Кортежи(tup).md",
-    "Cache/image-1.png",
-    "AIOGRAM/1.Начало создание ботов.md",
+    "Крипта/Смарт контракты.md",
+    "Крипта/Блокчейн.md",
+    "Крипта/Хэширование.md",
+    "Транкзации.md",
+    "Добавить.md",
+    "Python/3.Доп.информация/1.Работа с файлами.md",
+    "Cache/Pasted image 20250712001310.png",
+    "Cache/Pasted image 20250712000606.png",
+    "Cache/Pasted image 20250712000058.png",
     "README.md",
-    "Cache/image.png",
-    "Python/База данных",
-    "AIOGRAM/2.Работа с сообщениями.md",
+    "Cache/Pasted image 20250711234655.png",
+    "Терминал/Базовые команды Linux.md",
+    "Терминал",
+    "Cache/Pasted image 20250711231953.png",
+    "Cache/Pasted image 20250711231951.png",
+    "Cache/Pasted image 20250711231657.png",
+    "Крипта",
+    "Linux",
+    "Python/База данных/2.Операция с данными.md",
+    "Python/База данных/1.Работа с БД.md",
+    "AIOGRAM/1.Начало создание ботов.md",
+    "Python/2.ООП/1.Классы и объекты.md",
     "Сети/Доп.понятия.md",
-    "Сети/5.Браузеры и их работа.md",
+    "Python/3.Доп.информация/2.Работа  файлами разного формата.md",
+    "Сети/3.IP-адрес.md",
+    "Python/2.ООП/ООП.md",
+    "Python/2.ООП/3.Наследование.md",
+    "Python/2.ООП/4.Полиморфизм.md",
+    "Сети/1.Основные понятия.md",
+    "Сети/2.Сетевая топология.md",
     "Сети/7.Протокол HTTP и HTTPS.md",
     "Сети/6.Сетевая модель OSI.md",
-    "Сети/4.DNS.md",
-    "Python/3.Доп.информация/2.Работа  файлами разного формата.md",
-    "Python/3.Доп.информация/1.Работа с файлами.md",
-    "Python/1.Основы/Типы данных/4. Словари(dict).md",
-    "Python/1.Основы/1.Переменные и выражения.md",
-    "Python/Асинхронность.md",
-    "Python/1.Основы/5.Асинхронность.md",
-    "Django/Django channels/3.Асинхронный запуск Channels.md",
-    "Сети/2.Сетевая топология.md",
-    "1. Типы данных.md",
-    "Django/Django.md",
-    "Django/7.WSGI и ASGI.md",
+    "Сети/5.Браузеры и их работа.md",
+    "Django/Django channels/1.Основные понятия о Channels.md",
+    "Django/1.Подключение templates.md",
+    "Без названия.canvas",
+    "Python/База данных/Типы данных.canvas",
+    "test",
+    "Cache/image-1.png",
+    "Cache/image.png",
+    "Python/База данных",
     "Без названия/Без названия 1",
     "AIOGRAM",
     "Cache/Pasted image 20250221233417.png",
-    "Cache/Pasted image 20250218103308.png",
-    "Cache/Pasted image 20250218101543.png",
-    "Cache/Pasted image 20241127035219.png",
-    "Cache/Pasted image 20241009012849.png",
-    "Cache/Pasted image 20241009012510.png",
-    "Cache/Pasted image 20241004122357.png",
     "AIOGRAM3",
     "Доп.инфа/Aiogram3",
-    "Доп.инфа/Парсеры",
-    "Доп.инфа",
-    "Вопросы с собеседований",
-    "Python/Функциональное программирование",
-    "Python/3.Доп.информация",
-    "Cache/Pasted image 20250217205437.png"
+    "Доп.инфа/Парсеры"
   ]
 }
